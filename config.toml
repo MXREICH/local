@@ -7,10 +7,10 @@ preserveTaxonomyNames = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "USER.:REICHERT"
+    mainpagetitle = "MXREICH.386"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "REICHERT's PORTFOLIO" 
+    mainpagesubtitle = "PORTFOLIO" 
 
     # The description of your website. It will be displayed in the home page
     mainpagedesc = "S.T.E.M news about my student life"
@@ -32,13 +32,13 @@ preserveTaxonomyNames = true
     loadfastload = false
 
     # Sets the speed for the page loading effect. Default is 1.0.
-    loadspeedfactor = 1.0
+    loadspeedfactor = 9.0
 
     # Enables or disables the second flyby cursor. Default is false.
     loadonepass = false
 
 [params.copyright]
-    name = "MAXIMILIEN ADMIN_USER"
+    name = "MXREICH"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
     url = ""
@@ -47,7 +47,7 @@ preserveTaxonomyNames = true
     prefix = "[Maximilien REICHERT]"
 
     # Text to go between copyright and hugo disclaimer (if enabled)
-    suffix = "__EARLY BUILD__"
+    suffix = "EARLY__BUILD"
 
 [menu]
   # This displays buttons in the navbar to access your contents
@@ -60,7 +60,7 @@ preserveTaxonomyNames = true
   [[menu.main]]
     identifier = "posts"
     name = "All posts"
-    url = "/post/"       # The path can lead to a content folder too.
+    url = "/posts/"       # The path can lead to a content folder too.
     weight = 20
 
 [taxonomies]
