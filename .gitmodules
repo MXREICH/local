@@ -1,6 +1,4 @@
-[submodule "themes/compost"]
-	path = themes/compost
-	url = https://github.com/canstand/compost
-[submodule "themes/github.com/canstand/compost"]
-	path = themes/github.com/canstand/compost
-	url = https://github.com/canstand/compost
+[submodule "themes/congo"]
+	path = themes/congo
+	url = https://github.com/jpanther/congo.git
+	branch = stable
