@@ -16,8 +16,7 @@ enableCodeCopy = false
 # robots = ""
 
 [header]
-  layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
-  # logo = "logo.jpg"
+  layout = "basic" # valid options: basic, hamburger, hybrid, custom
   showTitle = true
 
 [footer]
@@ -28,7 +27,7 @@ enableCodeCopy = false
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
-  showRecent = false
+  showRecent = true
 
 [article]
   showDate = true
