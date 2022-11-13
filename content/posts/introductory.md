@@ -6,7 +6,7 @@ categories: ["published", "test"]
 tags: ["first post", "resume", "links", "cv", "infos"]
 ---
  
-# About myself --- 
+# My life --- 
 
 
 
