@@ -9,9 +9,7 @@ title = "Home"
 # header.logo = "logo.jpg"
 description = "Personal blog"
 # copyright = "Copy, _right?_ :thinking_face:"
-
 dateFormat = "2 January 2006"
-
 [author]
   name = "Maximilien REICHERT"
   image = "logo.jpg"
